@@ -1,0 +1,15 @@
+ACER@LAPTOP-LDKP4EBB MINGW64 ~ (master)
+$ cd Desktop/command\ line
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line (master)
+$ mkdir ex1
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line (master)
+$ cd ex1
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/ex1 (master)
+$ mkdir tools
+
+ACER@LAPTOP-LDKP4EBB MINGW64 ~/Desktop/command line/ex1 (master)
+$ ls
+tools/
